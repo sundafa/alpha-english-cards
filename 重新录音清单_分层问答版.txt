@@ -1,0 +1,137 @@
+﻿阿尔法英语闪卡：重新录音清单
+全部待录音；每个编号对应一个独立按钮。重复句子也按位置分别编号。
+字母 a/A 请读字母名称 /eɪ/，不要读冠词弱读音。
+共 101 个录音位置。
+
+第1张：长颈鹿
+C01-W01｜单词｜Giraffe｜长颈鹿
+C01-W02｜单词｜Neck｜脖子
+C01-Q01｜问题｜What’s this?｜这是什么？
+C01-A01｜回答｜It’s a giraffe.｜这是一只长颈鹿。
+C01-Q02｜问题｜What’s this?｜这是什么？
+C01-A02｜回答｜It’s the neck.｜这是脖子。
+C01-Q03｜问题｜Is the neck long or short?｜脖子长还是短？
+C01-A03｜回答｜It’s long.｜很长。
+C01-F01｜完整句练习｜It has a long neck.｜它有长脖子。
+C01-E01｜拓展｜The giraffe has a long neck.｜这只长颈鹿有长脖子。
+
+第2张：大象和象鼻
+C02-W01｜单词｜Elephant｜大象
+C02-W02｜单词｜Trunk｜象鼻
+C02-Q01｜问题｜What’s this?｜这是什么？
+C02-A01｜回答｜It’s an elephant.｜这是一只大象。
+C02-Q02｜问题｜What’s this?｜这是什么？
+C02-A02｜回答｜It’s the trunk.｜这是象鼻。
+C02-Q03｜问题｜Is the trunk long or short?｜象鼻长还是短？
+C02-A03｜回答｜It’s long.｜很长。
+C02-F01｜完整句练习｜It has a long trunk.｜它有长鼻子。
+C02-E01｜拓展｜The elephant has a long trunk.｜这只大象有长鼻子。
+
+第3张：大象的耳朵
+C03-W01｜单词｜Ears｜耳朵
+C03-Q01｜问题｜What are these?｜这些是什么？
+C03-A01｜回答｜They’re the ears.｜这是耳朵。
+C03-Q02｜问题｜Are the ears big or small?｜耳朵大还是小？
+C03-A02｜回答｜They’re big.｜很大。
+C03-F01｜完整句练习｜It has big ears.｜它有大耳朵。
+C03-E01｜拓展｜The elephant has big ears.｜这只大象有大耳朵。
+
+第4张：大象的尾巴
+C04-W01｜单词｜Tail｜尾巴
+C04-Q01｜问题｜What’s this?｜这是什么？
+C04-A01｜回答｜It’s the tail.｜这是尾巴。
+C04-F01｜完整句练习｜It has a tail.｜它有一条尾巴。
+C04-E01｜拓展｜The elephant has a tail.｜这只大象有一条尾巴。
+
+第5张：大象的腿
+C05-W01｜单词｜Legs｜腿
+C05-Q01｜问题｜What are these?｜这些是什么？
+C05-A01｜回答｜They’re the legs.｜这是腿。
+C05-Q02｜问题｜How many legs does it have?｜它有几条腿？
+C05-A02｜回答｜Four legs.｜四条腿。
+C05-F01｜完整句练习｜It has four legs.｜它有四条腿。
+C05-E01｜拓展｜The elephant has four legs.｜这只大象有四条腿。
+
+第6张：蓝色弹跳球
+C06-W01｜单词｜Ball｜球
+C06-W02｜单词｜Bouncing｜弹跳着的
+C06-W03｜单词｜Blue bouncing ball｜蓝色的弹跳球
+C06-Q01｜问题｜What’s this?｜这是什么？
+C06-A01｜回答｜It’s a ball.｜这是一个球。
+C06-Q02｜问题｜What color is it?｜它是什么颜色？
+C06-A02｜回答｜It’s blue.｜蓝色。
+C06-Q03｜问题｜What’s it doing?｜它在做什么？
+C06-A03｜回答｜It’s bouncing.｜它在弹跳。
+C06-E01｜拓展｜The blue ball is bouncing.｜蓝色的球正在弹跳。
+
+第7张：小写 a
+C07-W01｜单词｜Lowercase a｜小写字母 a｜a 读字母名称 /eɪ/
+C07-Q01｜问题｜What letter is this?｜这是什么字母？
+C07-A01｜回答｜It’s a.｜是字母 a。｜a 读字母名称 /eɪ/
+C07-E01｜拓展｜It’s lowercase a.｜这是小写 a。
+
+第8张：大写 A
+C08-W01｜单词｜Capital A｜大写字母 A
+C08-Q01｜问题｜What letter is this?｜这是什么字母？
+C08-A01｜回答｜It’s A.｜是字母 A。
+C08-E01｜拓展｜It’s capital A.｜这是大写 A。
+
+第9张：最喜欢的动物
+C09-W01｜单词｜mosasaurus｜苍龙
+C09-Q01｜问题｜What’s your favorite animal?｜你最喜欢的动物是什么？
+C09-A01｜回答｜A mosasaurus!｜苍龙！
+C09-F01｜完整句练习｜My favorite animal is a mosasaurus.｜我最喜欢的动物是苍龙。
+
+第10张：认识苍龙
+C10-W01｜单词｜mosasaurus｜苍龙
+C10-Q01｜问题｜What’s this?｜这是什么？
+C10-A01｜回答｜It’s a mosasaurus.｜这是一只苍龙。
+
+第11张：苍龙的颜色
+C11-W01｜单词｜blue｜蓝色
+C11-W02｜单词｜green｜绿色
+C11-Q01｜问题｜What color is it?｜它是什么颜色？
+C11-A01｜回答｜It’s blue and green.｜它是蓝色和绿色的。
+C11-E01｜拓展｜The mosasaurus is blue and green.｜这只苍龙是蓝色和绿色的。
+
+第12张：苍龙的尾巴
+C12-W01｜单词｜tail｜尾巴
+C12-Q01｜问题｜What’s this?｜这是什么？
+C12-A01｜回答｜It’s the tail.｜这是尾巴。
+C12-F01｜完整句练习｜It has a tail.｜它有一条尾巴。
+C12-E01｜拓展｜The mosasaurus has a tail.｜这只苍龙有一条尾巴。
+
+第13张：苍龙的鳍肢
+C13-W01｜单词｜flipper｜鳍肢
+C13-Q01｜问题｜What’s this?｜这是什么？
+C13-A01｜回答｜It’s a flipper.｜这是一个鳍肢。
+
+第14张：苍龙的鳍肢数量
+C14-W01｜单词｜four｜四
+C14-W02｜单词｜flippers｜鳍肢（复数）
+C14-Q01｜问题｜How many flippers does it have?｜它有几个鳍肢？
+C14-A01｜回答｜Four flippers.｜四个鳍肢。
+C14-F01｜完整句练习｜It has four flippers.｜它有四个鳍肢。
+C14-E01｜拓展｜The mosasaurus has four flippers.｜这只苍龙有四个鳍肢。
+
+第15张：苍龙的嘴巴
+C15-W01｜单词｜mouth｜嘴巴
+C15-W02｜单词｜big｜大的
+C15-W03｜单词｜big mouth｜大大的嘴巴
+C15-Q01｜问题｜What’s this?｜这是什么？
+C15-A01｜回答｜It’s the mouth.｜这是嘴巴。
+C15-Q02｜问题｜Is the mouth big or small?｜嘴巴大还是小？
+C15-A02｜回答｜It’s big.｜很大。
+C15-F01｜完整句练习｜It has a big mouth.｜它有大嘴巴。
+C15-E01｜拓展｜The mosasaurus has a big mouth.｜这只苍龙有大嘴巴。
+
+第16张：苍龙的牙齿
+C16-W01｜单词｜teeth｜牙齿
+C16-W02｜单词｜sharp｜尖的 / 锋利的
+C16-W03｜单词｜sharp teeth｜尖尖的牙齿
+C16-Q01｜问题｜What are these?｜这些是什么？
+C16-A01｜回答｜They’re the teeth.｜这是牙齿。
+C16-Q02｜问题｜Are they sharp?｜它们锋利吗？
+C16-A02｜回答｜Yes, they are.｜是的。
+C16-F01｜完整句练习｜It has sharp teeth.｜它有锋利的牙齿。
+C16-E01｜拓展｜The mosasaurus has sharp teeth.｜这只苍龙有锋利的牙齿。
