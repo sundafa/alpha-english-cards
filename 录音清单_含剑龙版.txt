@@ -178,8 +178,8 @@ ST-01-A01｜It's a stegosaurus.｜这是一只剑龙。｜ST-01-A01.m4a
 
 剑龙第2张：Eyes 眼睛
 ST-02-W01｜Eyes｜眼睛｜ST-02-W01.m4a
-ST-02-Q01｜What color are its eyes?｜它的眼睛是什么颜色？｜ST-02-Q01.m4a
-ST-02-A01｜They're red.｜它们是红色的。｜ST-02-A01.m4a
+ST-02-Q01｜What color is the eye?｜它的眼睛是什么颜色？｜ST-02-Q01.m4a
+ST-02-A01｜It's red.｜它们是红色的。｜ST-02-A01.m4a
 ST-02-F01｜It has red eyes.｜它有红色的眼睛。｜ST-02-F01.m4a
 ST-02-E01｜The stegosaurus has red eyes.｜这只剑龙有红色的眼睛。｜ST-02-E01.m4a
 
@@ -191,7 +191,7 @@ ST-03-A01｜They're plates.｜这是背板。｜ST-03-A01.m4a
 剑龙第4张：Back 背部
 ST-04-W01｜Back｜背部｜ST-04-W01.m4a
 ST-04-Q01｜Where are the plates?｜背板在哪里？｜ST-04-Q01.m4a
-ST-04-A01｜They're on its back.｜它们在它的背上。｜ST-04-A01.m4a
+ST-04-A01｜They're on the back.｜它们在它的背上。｜ST-04-A01.m4a
 
 剑龙第5张：Tail 尾巴
 ST-05-W01｜Tail｜尾巴｜ST-05-W01.m4a
@@ -202,8 +202,8 @@ ST-05-A01｜It's the tail.｜这是尾巴。｜ST-05-A01.m4a
 ST-06-W01｜Spikes｜尾刺｜ST-06-W01.m4a
 ST-06-Q01｜What are these?｜这些是什么？｜ST-06-Q01.m4a
 ST-06-A01｜They're spikes.｜这是尾刺。｜ST-06-A01.m4a
-ST-06-F01｜It has spikes on its tail.｜它的尾巴上有尾刺。｜ST-06-F01.m4a
-ST-06-E01｜The stegosaurus has spikes on its tail.｜这只剑龙的尾巴上有尾刺。｜ST-06-E01.m4a
+ST-06-F01｜It has spikes on the tail.｜它的尾巴上有尾刺。｜ST-06-F01.m4a
+ST-06-E01｜The stegosaurus has spikes on the tail.｜这只剑龙的尾巴上有尾刺。｜ST-06-E01.m4a
 
 剑龙第7张：Legs 腿
 ST-07-W01｜Legs｜腿｜ST-07-W01.m4a
